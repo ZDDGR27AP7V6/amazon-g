@@ -58,6 +58,7 @@ body {
     width: 25%;
     margin: 5px;
     padding: 5px;
+    cursor: pointer;
 }
 
 .product .p-img {
